@@ -1,4 +1,4 @@
-FROM centos:latest
+FROM centos:centos7
 MAINTAINER Support <support@atomicorp.com>
 
 #VOLUME ["/var/lib/openvas"]
