@@ -91,4 +91,3 @@ if [ -z "$BUILD" ]; then
 	echo "Tailing logs"
 	tail -F /var/log/openvas/*
 fi
-
